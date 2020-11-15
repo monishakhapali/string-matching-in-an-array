@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\String-matching-in-an-array\String-matching-in-an-array\bin\Debug\netcoreapp3.1\String-matching-in-an-array.exe
+C:\Users\monisha.khapali\source\repos\String-matching-in-an-array\String-matching-in-an-array\bin\Debug\netcoreapp3.1\String-matching-in-an-array.deps.json
+C:\Users\monisha.khapali\source\repos\String-matching-in-an-array\String-matching-in-an-array\bin\Debug\netcoreapp3.1\String-matching-in-an-array.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\String-matching-in-an-array\String-matching-in-an-array\bin\Debug\netcoreapp3.1\String-matching-in-an-array.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\String-matching-in-an-array\String-matching-in-an-array\bin\Debug\netcoreapp3.1\String-matching-in-an-array.dll
+C:\Users\monisha.khapali\source\repos\String-matching-in-an-array\String-matching-in-an-array\bin\Debug\netcoreapp3.1\String-matching-in-an-array.pdb
+C:\Users\monisha.khapali\source\repos\String-matching-in-an-array\String-matching-in-an-array\obj\Debug\netcoreapp3.1\String-matching-in-an-array.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\String-matching-in-an-array\String-matching-in-an-array\obj\Debug\netcoreapp3.1\String-matching-in-an-array.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\String-matching-in-an-array\String-matching-in-an-array\obj\Debug\netcoreapp3.1\String-matching-in-an-array.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\String-matching-in-an-array\String-matching-in-an-array\obj\Debug\netcoreapp3.1\String-matching-in-an-array.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\String-matching-in-an-array\String-matching-in-an-array\obj\Debug\netcoreapp3.1\String-matching-in-an-array.dll
+C:\Users\monisha.khapali\source\repos\String-matching-in-an-array\String-matching-in-an-array\obj\Debug\netcoreapp3.1\String-matching-in-an-array.pdb
+C:\Users\monisha.khapali\source\repos\String-matching-in-an-array\String-matching-in-an-array\obj\Debug\netcoreapp3.1\String-matching-in-an-array.genruntimeconfig.cache
